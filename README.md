@@ -62,10 +62,11 @@ sudo -s
 ![6](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img6.png)`
 
 4. `Есть одно замечание если я  конфигурационном файле раскомментирую  пароль, то у меня служба не работает, не перезапускается ,если данная строчка в коментарии то все работает`
-![6](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img6.png)`
+![7](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img7.png)`
 
+`В общем пришлось переустановить всю схему и все получилось.`
 
+![8](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img8.png)`
 
-
-
-
+3. `Установка клиента на Хост`
+![9](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img9.png)`
