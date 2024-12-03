@@ -74,8 +74,6 @@ sudo -s
 
 6. `Хост 10.0.2.15 подключился для мониторинга`
 
-![10](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img10.jpg)`
-
 ![11](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img11.jpg)`
 
 `Второй хост поставить не смогу, так как мой старый SonyVoio просто не потянет. Принцып работы ясен`
