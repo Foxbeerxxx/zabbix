@@ -66,8 +66,12 @@ sudo -s
 
 `В общем пришлось переустановить всю схему и все получилось.`
 
-![8](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img8.png)`
-
-3. `Установка клиента на Хост`
-
 ![9](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img9.jpg)`
+
+5. `Установка клиента на Хост`
+
+![10](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img10.jpg)`
+
+6. `Хост 10.0.2.15 подключился для мониторинга`
+
+![10](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img10.jpg)`
