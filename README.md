@@ -69,4 +69,5 @@ sudo -s
 ![8](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img8.png)`
 
 3. `Установка клиента на Хост`
+
 ![9](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img9.png)`
