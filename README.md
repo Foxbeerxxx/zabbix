@@ -70,4 +70,4 @@ sudo -s
 
 3. `Установка клиента на Хост`
 
-![9](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img9.png)`
+![9](https://github.com/Foxbeerxxx/zabbix/blob/main/img/img9.jpg)`
